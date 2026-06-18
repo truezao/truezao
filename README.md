@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Olá! Meu nome é Matheus Freitas, tenho 26 anos e sou apaixonado por tecnologia e dados. Atualmente, estou construindo minha carreira na área de Análise de Dados, aprofundando meus conhecimentos em Python, SQL, Power BI e Excel.
+Olá! Meu nome é Matheus Freitas, tenho 26 anos e Sou apaixonado por tecnologia e análise de dados, utilizando Python, SQL, Excel e Power BI para transformar dados em informações que apoiam decisões e geram resultados.
 
 Aqui no GitHub compartilho projetos, estudos e desafios que fazem parte da minha evolução profissional, documentando meu aprendizado e minha paixão por transformar dados em insights.
 
@@ -83,11 +83,11 @@ Aqui no GitHub compartilho projetos, estudos e desafios que fazem parte da minha
     src="https://github-readme-stats.vercel.app/api?username=truezao&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=truezao&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<img  
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=truezao&theme=dark&custom_title=Tecnologias&langs_count=5" 
+    />
 </p>
