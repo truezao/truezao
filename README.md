@@ -1,93 +1,130 @@
-## 👩🏻‍💻 Matheus Freitas
+# 👨‍💻 Matheus Freitas
 
-**`Analista de Dados`**
+### Analista de Dados | Python | SQL | Power BI | Excel
 
-Olá! Meu nome é Matheus Freitas, tenho 26 anos e Sou apaixonado por tecnologia e análise de dados, utilizando Python, SQL, Excel e Power BI para transformar dados em informações que apoiam decisões e geram resultados.
+Profissional em transição para a área de Dados, com experiência em gestão, controle financeiro, análise de informações e apoio à tomada de decisão.
 
-Aqui no GitHub compartilho projetos, estudos e desafios que fazem parte da minha evolução profissional, documentando meu aprendizado e minha paixão por transformar dados em insights.
+Desenvolvo projetos utilizando **Python, SQL, Excel e Power BI**, abrangendo tratamento de dados, análise exploratória, construção de indicadores e desenvolvimento de dashboards.
+
+Atualmente, estou construindo um portfólio orientado a problemas de negócio e buscando oportunidades como **Analista de Dados Júnior**.
+
+---
+
+## 📊 Projetos em destaque
+
+### 🛒 Análise de E-commerce — Olist
+
+Análise de mais de **100 mil pedidos** do e-commerce brasileiro Olist, com foco em vendas, comportamento dos clientes, desempenho logístico e satisfação.
+
+**Principais entregas:**
+
+- Tratamento, limpeza e integração de 8 bases de dados
+- Validação dos relacionamentos entre as tabelas
+- Análise exploratória orientada a perguntas de negócio
+- Construção de indicadores de vendas, logística e satisfação
+- Desenvolvimento de dashboard no Power BI
+- Identificação de padrões, riscos e oportunidades de melhoria
+- Elaboração de recomendações baseadas nos dados
+
+**Tecnologias utilizadas:**
+
+`Python` `Pandas` `Jupyter Notebook` `Power BI` `Excel`
+
+🔗 [Acessar o projeto](https://github.com/truezao/olist-ecommerce-analytics)
+
+---
+
+## 🧰 Linguagens e tecnologias
 
 <p align="left">
-    </a> 
-    <a href="https://github.com/truezao?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/truezao?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/truezao?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/truezao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <img 
+    alt="Python"
+    title="Python"
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+  />
+
+  <img 
+    alt="SQL"
+    title="SQL"
+    src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"
+  />
+
+  <img 
+    alt="Pandas"
+    title="Pandas"
+    src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
+  />
+
+  <img 
+    alt="Power BI"
+    title="Power BI"
+    src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+  />
+
+  <img 
+    alt="Excel"
+    title="Excel"
+    src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"
+  />
+
+  <img 
+    alt="Jupyter Notebook"
+    title="Jupyter Notebook"
+    src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"
+  />
+
+  <img 
+    alt="Git"
+    title="Git"
+    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+  />
+
+  <img 
+    alt="GitHub"
+    title="GitHub"
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 📌 Competências
 
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL" 
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-  />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-  />
-<img 
-    align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
-  />
-  <img 
-    align="left" 
-    alt="Excel" 
-    title="Excel"
-    width="80px" 
-    style="padding-right: 10px;"
-    src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
-/>
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="80px" 
-    style="padding-right: 100px;" 
-    src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" 
-/>
-          
-<br/>
-<br/>
+- Limpeza e tratamento de dados
+- Análise exploratória de dados
+- Integração e validação de bases
+- Construção de indicadores e KPIs
+- Desenvolvimento de dashboards
+- Visualização e comunicação de dados
+- Interpretação de resultados
+- Elaboração de recomendações de negócio
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=truezao&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+## 🚀 Objetivo profissional
 
-<img  
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=truezao&theme=dark&custom_title=Tecnologias&langs_count=5" 
+Busco uma oportunidade como **Analista de Dados Júnior**, na qual possa contribuir com análise, organização e visualização de dados, enquanto aprofundo meus conhecimentos técnicos e de negócio.
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="www.linkedin.com/in/matheus-freitas-2228101b1">
+    <img 
+      alt="LinkedIn"
+      title="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
+  </a>
+
+  <a href="mailto:Theusfreitas@hotmail.com">
+    <img 
+      alt="E-mail"
+      title="E-mail"
+      src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
 </p>
+
+🔎 [Ver todos os meus repositórios](https://github.com/truezao?tab=repositories)
