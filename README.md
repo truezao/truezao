@@ -32,6 +32,27 @@ Análise de mais de **100 mil pedidos** do e-commerce brasileiro Olist, com foco
 
 🔗 [Acessar o projeto](https://github.com/truezao/olist-ecommerce-analytics)
 
+### 🇧🇷 Brasil em Dados — Economia e Contexto Eleitoral
+
+Projeto autoral com dados públicos do **Banco Central, IBGE e TSE**, reunindo tratamento de dados, modelagem dimensional e análise de indicadores econômicos e contexto eleitoral brasileiro.
+
+**Principais entregas:**
+
+- Ingestão, tratamento e validação de dados públicos em Python
+- Construção de Data Warehouse dimensional em PostgreSQL
+- Organização de 67 séries econômicas e 9.237 observações
+- Desenvolvimento de consultas SQL e regras de agregação
+- Análise descritiva de indicadores econômicos e contexto eleitoral
+- Dashboard interativo com 8 páginas em Streamlit e Plotly
+- Controles de cobertura, qualidade e rastreabilidade dos dados
+- Testes automatizados e documentação da metodologia
+
+**Tecnologias utilizadas:**
+
+`Python` `Pandas` `SQL` `PostgreSQL` `Streamlit` `Plotly` `Git`
+
+🔗 [Acessar o projeto](https://github.com/truezao/brasil-em-dados) · [Explorar o dashboard interativo](https://brasil-em-dados-matheus.streamlit.app/)
+
 ---
 
 ## 🧰 Linguagens e tecnologias
